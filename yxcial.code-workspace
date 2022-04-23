@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "..\\linuxsources"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"rpc.enabled": true
+	}
+}
